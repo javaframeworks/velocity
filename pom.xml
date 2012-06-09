@@ -5,7 +5,7 @@
 	<artifactId>velocity</artifactId>
 	<packaging>jar</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Velocity - Início Rápido</name>
+	<name>Java Frameworks - Velocity</name>
 	<url>http://velocity.javaframeworks.com.br</url>
 
 	<build>

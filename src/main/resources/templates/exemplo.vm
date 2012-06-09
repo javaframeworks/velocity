@@ -1,0 +1,14 @@
+<html>
+<head>
+  <title>Seja bem-vindo!</title>
+</head>
+<body>
+  <h1>Bem-vindo $nome!</h1>
+  <p>Nós temos os seguintes animais:
+  <ul>
+  	#foreach( $animal in $animais )
+	 <li>$animal.nome por $animal.preco reais</li>
+	#end
+  </ul>
+</body>
+</html>  
